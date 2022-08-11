@@ -3,7 +3,7 @@ import requests, discord
 from bs4 import BeautifulSoup
 from discord.ext import commands
 
-TOKEN = "MTAwNjE5NjgxNTk1MzE1NDA2OA.G4x8za.tqi6hfcvIMGtzJERFOGHHxxU8kQXegsLTB7XOI"
+TOKEN = "MTAwNjE5NjgxNTk1MzE1NDA2OA.GlbZbL.mpLOp-olJZB3qUjbVX2REOeKBONQ_jL7WnCYYU"
 client = commands.Bot(command_prefix=".")
 
 BASE_URL = "https://www.coingecko.com"
